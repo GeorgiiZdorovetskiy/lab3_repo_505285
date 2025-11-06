@@ -1,0 +1,21 @@
+*   92074fb release
+|\  
+| * 9f46a45 Добавлен первак в backend_netal
+* |   de1143c Мердж feature2
+|\ \  
+| * | 1faccbb feature2 change
+* | |   17371c6 Мердж feature1
+|\ \ \  
+| |_|/  
+|/| |   
+| * | 23712d0 feature1 change
+| |/  
+* | 5545bab Добавлен не первак
+* | b203028 Добавлен первак
+|/  
+* c50e1e0 add todo.txt 5
+* 8d20174 add todo.txt 4
+* 2cf95b0 add todo.txt 3
+* 3ac344e add todo.txt 2
+* 3422b1e add todo.txt 1
+* 45fa1c7 init
